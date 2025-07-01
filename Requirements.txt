@@ -1,0 +1,8 @@
+yfinance
+newsapi-python
+textblob
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
